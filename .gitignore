@@ -1,6 +1,7 @@
 # API Key files
 config.py
 api_keys.py
+postgresql_password.py
 
 # Mac & VSC specific
 *.DS_Store
