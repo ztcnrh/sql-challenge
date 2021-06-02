@@ -1,4 +1,4 @@
-# SQL-Employee-Database
+# Employee SQL Database
 
 Penn Data Boot Camp Assignment 9 - Data Engineering, ERD, SQL queries, and data analysis with SQLAlchemy.
 
